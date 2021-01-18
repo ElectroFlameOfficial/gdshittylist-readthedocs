@@ -12,9 +12,9 @@ Welcome to geometry dash shitty list's documentation!
 
 
 
-Indices and tables
+Table Of Contents
 ==================
 
-* :ref:`genindex`
+* :ref:`quick-start`
 * :ref:`modindex`
 * :ref:`search`
