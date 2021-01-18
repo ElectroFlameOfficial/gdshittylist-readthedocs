@@ -6,15 +6,25 @@
 Welcome to Geometry Dash Shitty List's documentation!
 =====================================================
 
-.. toctree::
+  toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: quick read:
+   
+   quick_start_guide
+
+  toctree::
+    :maxdepth: 2
+    :caption: Modifying List Info:
+
+    list_.js_
+    index_.html_
+    stylesheet_.css_
 
 
 
-Indices and tables
-==================
+.. Indices and tables
+.. ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
