@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'geometry dash shitty list'
-copyright = '2021, The Shitty List Development Team'
-author = 'The Shitty List Development Team'
+project = 'Geometry Dash Shitty List'
+copyright = '2021, The Geometry Dash Shitty List Development Team'
+author = 'The Geometry Dash Shitty List Development Team'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'

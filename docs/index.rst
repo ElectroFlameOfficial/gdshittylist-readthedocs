@@ -1,9 +1,9 @@
-.. geometry dash shitty list documentation master file, created by
-   sphinx-quickstart on Mon Jan 18 03:40:08 2021.
+.. Geometry Dash Shitty List documentation master file, created by
+   sphinx-quickstart on Mon Jan 18 04:05:06 2021.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to geometry dash shitty list's documentation!
+Welcome to Geometry Dash Shitty List's documentation!
 =====================================================
 
 .. toctree::
@@ -12,9 +12,9 @@ Welcome to geometry dash shitty list's documentation!
 
 
 
-Table Of Contents
+Indices and tables
 ==================
 
-* :ref:`quick-start`
+* :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
